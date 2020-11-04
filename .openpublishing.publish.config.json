@@ -18,8 +18,8 @@
     },
     {
       "docset_name": "e2e_mac_archive",
-      "build_source_folder": "mac",
-      "build_output_subfolder": "mac",
+      "build_source_folder": "e2e_mac_archive",
+      "build_output_subfolder": "e2e_mac_archive",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],

@@ -15,6 +15,22 @@
       "template_folder": "_themes",
       "base_path": "/e2e_folder_archive",
       "site_name": "Docs"
+    },
+    {
+      "docset_name": "e2e_mac_archive",
+      "build_source_folder": "e2e_mac_archive",
+      "build_output_subfolder": "e2e_mac_archive",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "base_path": "/archive/e2e_mac_archive",
+      "site_name": "Docs"
     }
   ],
   "notification_subscribers": [],

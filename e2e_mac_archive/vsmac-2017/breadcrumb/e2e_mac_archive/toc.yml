@@ -1,0 +1,13 @@
+- name: Docs
+  href: /
+  items:
+  - name: Previous Versions
+    href: /previous-versions/
+    items:
+    - name: Visual Studio
+      tocHref: /visualstudio/products/
+      topicHref: /visualstudio/products
+      items:
+      - name: Mac
+        tocHref: /visualstudio/mac/
+        topicHref: /visualstudio/mac
